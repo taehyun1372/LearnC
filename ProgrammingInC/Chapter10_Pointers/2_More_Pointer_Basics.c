@@ -12,3 +12,4 @@ int main(void)
     *char_pointer = '()';
     printf("%c %c\n", c, *char_pointer);
 }
+
