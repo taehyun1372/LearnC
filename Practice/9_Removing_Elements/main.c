@@ -9,20 +9,28 @@ void display(int input[], int length)
     printf("\n");
 }
 
-void remove_element(size_t *length, size_t target, int array[])
+void remove_element(size_t *length, size_t target, int *array)
 {
-    for (int i = 0; i < *length; i++)
+    int index = 0;
+    for (int i = 0; index < *length; i++)
     {
-        if (i != target)
+        if (i == target)
         {
-            continue;
+            index += 1;
         }
         
-        array[i] = array[i+1];
+        array[i] = array[index];
+        index++;
     }
+    
     *length -= 1;
-}
 
+    printf("remove_element Debugging \n");
+    for (int i = 0; i < *length; i++)
+    {
+        printf("%i", array[i]);
+    }
+}
 
 void remove_every_other(size_t *length, int array[])
 {
@@ -34,6 +42,12 @@ void remove_every_other(size_t *length, int array[])
         if (i % 2 != 0)
         {
             remove_element(length, i, array);
+
+            printf("remove_every_other Debugging \n");
+            for (int i = 0; i < *length; i++)
+            {
+                printf("%i", array[i]);
+            }
         }
     }
 }
@@ -51,7 +65,7 @@ int main()
     display(test1, 4);
 
     int test2[] = {11,12,13,14,15};
-    int length2 = 5;
+    size_t length2 = 5;
     remove_every_other(&length2, test2);
     display(test2, length2);
     
