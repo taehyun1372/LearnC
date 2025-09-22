@@ -14,7 +14,6 @@ int numberOfDays(struct date d);
 int main()
 {
     struct date today, tomorrow;
-    
 
     printf("Enther today's date (mm dd yyyy): ");
     
