@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/a00533064/OneDrive - ONEVIRTUALOFFICE/Desktop/Code/LearnC/Practice/17_Sum_Of_Positive",
-      "program": "c:/Users/a00533064/OneDrive - ONEVIRTUALOFFICE/Desktop/Code/LearnC/Practice/17_Sum_Of_Positive/build/Debug/outDebug",
+      "cwd": "c:/Users/a00533064/OneDrive - ONEVIRTUALOFFICE/Desktop/Code/LearnC/Practice/18_Reverse_Words",
+      "program": "c:/Users/a00533064/OneDrive - ONEVIRTUALOFFICE/Desktop/Code/LearnC/Practice/18_Reverse_Words/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
