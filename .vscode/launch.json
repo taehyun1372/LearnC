@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/a00533064/OneDrive - ONEVIRTUALOFFICE/Desktop/Code/LearnC/Practice/18_Reverse_Words",
-      "program": "c:/Users/a00533064/OneDrive - ONEVIRTUALOFFICE/Desktop/Code/LearnC/Practice/18_Reverse_Words/build/Debug/outDebug",
+      "cwd": "c:/Users/a00533064/OneDrive - ONEVIRTUALOFFICE/Desktop/Code/LearnC/ProgrammingInC/Chapter9_String",
+      "program": "c:/Users/a00533064/OneDrive - ONEVIRTUALOFFICE/Desktop/Code/LearnC/ProgrammingInC/Chapter9_String/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
