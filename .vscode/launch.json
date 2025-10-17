@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/a00533064/OneDrive - ONEVIRTUALOFFICE/Desktop/Code/LearnC/ProgrammingInC/Chapter9_String",
-      "program": "c:/Users/a00533064/OneDrive - ONEVIRTUALOFFICE/Desktop/Code/LearnC/ProgrammingInC/Chapter9_String/build/Debug/outDebug",
+      "cwd": "c:/Users/a00533064/OneDrive - ONEVIRTUALOFFICE/Desktop/Code/LearnC/ProgrammingInC/Chapter10_Pointers",
+      "program": "c:/Users/a00533064/OneDrive - ONEVIRTUALOFFICE/Desktop/Code/LearnC/ProgrammingInC/Chapter10_Pointers/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

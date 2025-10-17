@@ -25,7 +25,7 @@ int main()
 {
     printf("Hello World \n");
 
-    char *test = "Some world";
+    char *test = "Some T world";
     printf("%s \n", dna_to_rna(test));
 
     printf("Goodbye World \n");
